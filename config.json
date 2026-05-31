@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypecrypt",
+        "uuid": 30675096,
+        "checksum": "v9xeq4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
